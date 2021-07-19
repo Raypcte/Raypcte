@@ -24,7 +24,7 @@ Sou **Mestre em Química**, e atualmente estudande de **Tec. da Informação** (
 </a>
 </br>
 
-<img align="right" alt="my octocat" width="500px" src="https://drive.google.com/file/d/1xaK2FQb3is39TcTM4UspBLwiGyieZN8r/view?usp=sharing" />
+<img align="right" alt="my octocat" width="500px" src="oticatRayane.png" />
 </p>
 </br>
 
