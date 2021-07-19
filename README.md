@@ -41,7 +41,7 @@ Estou no inicio de um doutorado em Química e me especializando na area de TI , 
 ● GESTÃO DE SERVIÇOS EM TI;
 ● PARADIGMAS DE LING. DE PROGRAMAÇÃO EM PYTHON;
 ● PENSAMENTO COMPUTACIONAL.
-● c++, SQL.
+● C++, SQL.
 
 
 
