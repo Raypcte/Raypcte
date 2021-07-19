@@ -1,5 +1,6 @@
 # Bem vindo 👋
 Olá meu nome é Rayane Mayara  👩🏻;
+</br>
 Sou **Mestre em Química**, e atualmente estudande de **Tec. da Informação** (TI);
 
 ## Fatos sobre mim
@@ -10,7 +11,6 @@ Sou **Mestre em Química**, e atualmente estudande de **Tec. da Informação** (
 - Bookhaollic (viciada em Livros);
 
 <p align="left">
-  
 <a target="_blank" href="https://www.linkedin.com/in/rayane-mayara/">
   <img align="middle" alt="LinkedIN" width="38px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
 </a>
@@ -22,11 +22,12 @@ Sou **Mestre em Química**, e atualmente estudande de **Tec. da Informação** (
 <a target="_blank" href="mailto:rayanepcte@gmail.com">
   <img align="middle" alt="E-mail" width="38px" src="https://image.flaticon.com/icons/svg/95/95627.svg" /><br>
 </a>
-<br>
+</br>
 
-<img align="right" alt="my octocat" width="500px" src="https://drive.google.com/file/d/1xaK2FQb3is39TcTM4UspBLwiGyieZN8r/view?usp=sharing" />
+<img align="right" alt="my octocat" width="500px" src="https://github.com/rayh12/rayh12/blob/master/oticatRayane.png?raw=true" />
 </p>
 </br>
+
 <!--
 **rayh12/rayh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
