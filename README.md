@@ -4,10 +4,11 @@ Olá meu nome é Rayane Mayara  👩🏻;
 Sou **Mestre em Química**, e atualmente estudande de **Tec. da Informação** (TI);
 
 ## Fatos sobre mim 💭
-- Sou gateira (Amo gatos); 😻
+- Gateira (Amo gatos); 🐈‍
 - Gamer Retro (Viciada em jogos antigos); 🎮
 - Otaku (Viciada em animes); 📺
 - Bookhaollic (viciada em Livros); 📚
+- Música ( Retro 80's, Grunge e Heavy Metal)🤘.
 
 </br>
 <p align="left">
@@ -26,12 +27,22 @@ Sou **Mestre em Química**, e atualmente estudande de **Tec. da Informação** (
 <img align="right" alt="my octocat" width="500px" src="oticatRayane.png" />
 </p>
 
-<!---
-ESCREVA SUA DESCRIÇÃO AQUI !!!
--->
+Sou brasileira ,estudate de Quimica e TI, louco por livros e mangás, gosto de escrever versos, assistir filmes ou séries de terror ou Crime scenes, ouvir música Retro internacional anos 80 e 90 e completamente apaixonada por gatos.
+
+Estou no inicio de um doutorado em Química e me especializando na area de TI , me sinto animada para explorar todos esses mundos novos até a fronteira final e realizar meu sonho de entrar na Policia.  
+
 
 ## Estudos 👨‍🎓
-- Estou estudando ...
+● FUNDAMENTOS DE REDES DE COMPUTADORES;
+● INTRODUÇÃO A PROGRAMAÇÃO ESTRUTURADA EM COMPUTADORES;
+● ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES;
+● BANCO DE DADOS;
+● DESENVOLV. WEB EM HTML5, CSS, JAVASCRIPT E PHP;
+● GESTÃO DE SERVIÇOS EM TI;
+● PARADIGMAS DE LING. DE PROGRAMAÇÃO EM PYTHON;
+● PENSAMENTO COMPUTACIONAL.
+● c++, SQL.
+
 
 
 ### Meus Status
