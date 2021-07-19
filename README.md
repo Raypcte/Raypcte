@@ -34,11 +34,6 @@ ESCREVA SUA DESCRIÇÃO AQUI !!!
 - Estou estudando ...
 
 
-### Stats
-<div>
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=rayh12&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="rayh12 GitHub Stats" />
+### Meus Status
 
-<a href="https://github.com/rayh12">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayh12&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-</div>
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=rayh12&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="rayh12 GitHub Stats" />
