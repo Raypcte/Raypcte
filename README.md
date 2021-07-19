@@ -1,7 +1,7 @@
 # Bem vindo 👋
 Olá meu nome é Rayane Mayara  👩🏻;
 </br>
-Sou **Mestre em Química**, e atualmente estudande de **Tec. da Informação** (TI);
+A garota da foto ao lado , estou livre da maldição e pronta para seguir com meus sonhos;
 
 ## Fatos sobre mim 💭
 - Gateira (Amo gatos); 🐈‍
