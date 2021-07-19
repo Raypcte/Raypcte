@@ -26,21 +26,19 @@ Sou **Mestre em Química**, e atualmente estudande de **Tec. da Informação** (
 <img align="right" alt="my octocat" width="500px" src="oticatRayane.png" />
 </p>
 
-Meu nome e Rayane , Sou formanda em Química Bacharel e Licenciatura ,
-Especialista em TI forense , C++ , SQL E Analista de Sistema.
-Meu nome e Rayane , Sou formanda em Química Bacharel e Licenciatura ,
-Especialista em TI forense , C++ , SQL E Analista de Sistema.
-Meu nome e Rayane , Sou formanda em Química Bacharel e Licenciatura ,
-Especialista em TI forense , C++ , SQL E Analista de Sistema.
+<!---
+ESCREVA SUA DESCRIÇÃO AQUI !!!
+-->
 
 ## Estudos 👨‍🎓
 - Estou estudando ...
 
 
-### Stats <br>
+### Stats
+<div>
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=rayh12&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="rayh12 GitHub Stats" />
 
 <a href="https://github.com/rayh12">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayh12&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-</br>
+</div>
