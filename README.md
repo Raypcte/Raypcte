@@ -1,5 +1,6 @@
 # Bem vindo 👋
 Olá meu nome é Rayane Mayara  👩🏻;
+</br>
 Uma garota livre da maldição: **hello world** e pronta para seguir com meus sonhos;
 </br>
 
