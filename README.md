@@ -28,7 +28,7 @@ Uma garota livre da maldição: **hello world** e pronta para seguir com meus so
 <img align="right" alt="my octocat" width="500px" src="oticatRayane.png" />
 </p>
 
-Sou brasileira ,estudate de Quimica e TI, louco por livros e mangás, gosto de escrever versos, assistir filmes ou séries de terror ou Crime scenes, ouvir música Retro internacional anos 80 e 90 e completamente apaixonada por gatos.
+Sou brasileira ,estudante de Quimica e TI, louco por livros e mangás, gosto de escrever versos, assistir filmes ou séries de terror ou Crime scenes, ouvir música Retro internacional anos 80 e 90 e completamente apaixonada por gatos.
 
 Estou no inicio de um doutorado em Química e me especializando na area de TI , me sinto animada para explorar todos esses mundos novos até a fronteira final e realizar meu sonho de entrar na Policia.  
 
