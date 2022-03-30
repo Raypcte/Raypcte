@@ -28,8 +28,6 @@ Uma garota livre da maldição: **hello world** e pronta para seguir com meus so
 <img align="right" alt="my octocat" width="500px" src="oticatRayane.png" />
 </p>
 
-Sou brasileira , louca por livros e mangás, gosto de escrever versos, assistir filmes e séries de terror ou Crime Scenes, ouvir música Retro internacional anos 80 e 90 e sou completamente apaixonada por gatos.
-
 
 ## Estudos 👨‍🎓
 ● FUNDAMENTOS DE REDES DE COMPUTADORES;
