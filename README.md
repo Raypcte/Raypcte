@@ -30,8 +30,6 @@ Uma garota livre da maldição: **hello world** e pronta para seguir com meus so
 
 Sou brasileira , louca por livros e mangás, gosto de escrever versos, assistir filmes e séries de terror ou Crime Scenes, ouvir música Retro internacional anos 80 e 90 e sou completamente apaixonada por gatos.
 
-Estou no inicio de um doutorado em Química e me especializando na area de TI em Crimes ciberneticos , me sinto animada para explorar todos esses mundos novos até a fronteira final e realizar meu sonho de entrar na Policia.  
-
 
 ## Estudos 👨‍🎓
 ● FUNDAMENTOS DE REDES DE COMPUTADORES;
