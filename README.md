@@ -38,6 +38,7 @@ Uma garota livre da maldição: **hello world** e pronta para seguir com meus so
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" alt="linux"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="38" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="react"></code>
+### Stats <br>
 
 
 
