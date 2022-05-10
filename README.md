@@ -8,14 +8,13 @@
 
   
   <img align="center" alt="Ray-Ts" height="35" width="35" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
-  <img align="center" alt="Ray-Ts" height="35" width="60" src="http://www.ctrlzeta.com.br/wp-content/uploads/2014/10/linux.jpg">
-  <img align="center" alt="Ray-React" height="35" width="40" src="https://img.favpng.com/7/7/16/javascript-cascading-style-sheets-html-portable-network-graphics-logo-png-favpng-Yb8m12fQwBsEME333fpD418FL.jpg">
+  <img align="center" alt="Ray-Ts" height="35" width="35" src="logo-linux.png">
+  <img align="center" alt="Ray-React" height="35" width="40" src="logo-js.png">
   <img align="center" alt="Ray-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RRay-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ray-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Ray-pic" height="150" style="border-radius:50px;" 
-  src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Ray-pic" height="200" style="border-radius:50px;" src="ray.png">
 </div>
   
   ##
