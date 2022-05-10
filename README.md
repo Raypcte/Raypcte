@@ -7,6 +7,7 @@
 <div style="display: inline_block"><br>
 
   
+  <img align="center" alt="Ray-Ts" height="35" width="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="Ray-Ts" height="35" width="35" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
   <img align="center" alt="Ray-Ts" height="35" width="35" src="logo-linux.png">
   <img align="center" alt="Ray-React" height="35" width="40" src="logo-js.png">
