@@ -1,4 +1,4 @@
-## Oiii eu sou a Rayane Mayara, estudande de Desenvolvimento Web!
+## Oiii eu sou a Rayane Mayara, estudante de Desenvolvimento Web!
 <div align="center">
   <a href="https://github.com/Raypcte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
