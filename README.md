@@ -9,6 +9,7 @@ The girl in the pic beside! 👈 And now we’re free from the curse, you can *f
 <div style="display: inline_block"><br>
 
   
+  <img align="center" alt="Ray-Ts" height="37" width="35" src="https://sonuprabhu.files.wordpress.com/2016/09/logo-r.png">
   <img align="center" alt="Ray-Ts" height="35" width="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="Ray-Ts" height="35" width="35" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
   <img align="center" alt="Ray-Ts" height="35" width="35" src="logo-linux.png">
