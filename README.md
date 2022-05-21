@@ -1,4 +1,4 @@
-## Oiii eu sou a Rayane Mayara, estudante de Desenvolvimento Web!
+## Oiii eu sou a Rayane!
 The girl in the pic beside! 👈 And now we’re free from the curse, you can *follow the blind* at links below! <br></br>
 
 <div align="center">
