@@ -19,6 +19,8 @@ The girl in the pic beside! 👈 And now we’re free from the curse, you can *f
   <img align="center" alt="Ray-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ray-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ray-Csharp" height="35" width="40" src="https://flyclipart.com/thumbs/angular-favicon-1346973.png">
+  
+  <img align="center" alt="Ray-Csharp" height="35" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
  
   
   <img align="right" alt="Ray-pic" height="200" style="border-radius:50px;" src="ray.png">
