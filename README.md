@@ -1,12 +1,11 @@
 ## Oiii eu sou a Rayane!
 The girl in the pic beside! 👈 And now we’re free from the curse, you can *follow the blind* at links below! <br></br>
 
-<div align="center">
-  <a href="https://github.com/Raypcte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/Raypcte"><img src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&hide=issues,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="DeboraSerra's GitHub stats" /></a>
+
+<a href="https://github.com/Raypcte"><img src="https://activity-graph.herokuapp.com/graph?username=Raypcte&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
   
    <section style="background-color:#1A1B27">
