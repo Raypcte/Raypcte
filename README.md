@@ -1,5 +1,6 @@
 ## Oiii eu sou a Rayane!
-The girl in the pic beside! 👈 And now we’re free from the curse, you can *follow the blind* at links below! <br></br>
+
+That girl with glasses in the photo to the side, who has since been free from the curse: 'Hello world'. <br></br>
 
 <b>My GitHub Stats</b>
 
