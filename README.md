@@ -40,25 +40,6 @@ The girl in the pic beside! 👈 And now we’re free from the curse, you can *f
            src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
            alt="redux"
          />
-      </a>
-      <a href="https://nextjs.org/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-           alt="nextjs"
-         />
-      </a>
-      <a href="https://nodejs.org" target="_blank">
-        <img
-           src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-           alt="nodejs"
-         />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-           alt="mysql"
-         />
-      </a>
       <a href="https://www.cypress.io" target="_blank">
         <img
            src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"
@@ -90,11 +71,8 @@ The girl in the pic beside! 👈 And now we’re free from the curse, you can *f
          />
       </a>
       <a href="https://heroku.com" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-            alt="heroku"
-         />
-      </a>
+      
+      
       
   </div>
 </section>
