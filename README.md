@@ -4,7 +4,11 @@ That girl with glasses in the photo to the side, who has since been free from th
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Raypcte"><img src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&hide=issues,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="DeboraSerra's GitHub stats" /></a>
+<div> 
+        <a href="https://github.com/Raypcte"></a>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=radical" alt="">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&show_icons=true&theme=radical" alt="">
+    <br>
 
 
   
