@@ -85,7 +85,7 @@ That girl with glasses in the photo to the side, who has since been free from th
    
    
    
-   <a href="https://github.com/Raypcte"><img src="https://activity-graph.herokuapp.com/graph?username=Raypcte&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  
 
    
  
@@ -104,8 +104,6 @@ That girl with glasses in the photo to the side, who has since been free from th
 <a href="https://twitter.com/rayanepcte_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/twitter-FF0000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
 
