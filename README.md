@@ -1,6 +1,8 @@
-## Oiii eu sou a Rayane!
+## Hi! I'm Rayane!
 
-That girl with glasses in the photo to the side, who has since been free from the curse: 'Hello world'. <br></br>
+Fullstack development student at Trybe with emphasis on Front-End and Back-End.
+
+I am free from the "Hello World" curse. <br></br>
 
 <b>My GitHub Stats</b>
 
