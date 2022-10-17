@@ -6,14 +6,20 @@ I am free from the "Hello World" curse. <br></br>
 
 <b>My GitHub Stats</b>
 
-<div> 
-        <a href="https://github.com/Raypcte"></a>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=radical" alt="">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&show_icons=true&theme=radical" alt="">
-    <br>
+<div>
 
+Top Langs             |  GitHub stats
+:-------------------------:|:-------------------------:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&show_icons=true&theme=radical&layout=compact)  |  ![Raypcte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=radical)
 
-  
+<!---
+<a href="https://github.com/Raypcte"></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=radical" alt="">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&show_icons=true&theme=radical" alt="">
+-->
+        
+   <br>
+
    <section style="background-color:#1A1B27">
   <div class="technologies-container">
     <p align="left">
