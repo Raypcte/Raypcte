@@ -84,6 +84,12 @@ Top Langs             |  GitHub stats
          />
       </a>
       <a href="https://heroku.com" target="_blank">
+      </a>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img
+           src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+           alt="mysql"
+         />
       
       
       
