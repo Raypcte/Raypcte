@@ -1,22 +1,20 @@
-## Hi! I'm Rayane!
+# 🚀 Sobre mim
 
-Fullstack development student at Trybe with emphasis on Front-End and Back-End.
 
-I am free from the "Hello World" curse. <br></br>
+| <img src="https://user-images.githubusercontent.com/91226847/230133646-7e839d2a-888a-4986-a6ca-f8e1c98f29d7.gif" height="320" width="300" align="left" style="margin-right: 20px;"> |  Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <br><br>Em 2022, decidi começar minha transição de carreira para a área de Tecnologia, com o intuito de buscar conhecimento e aprimorar minhas competências. Para tal, ingressei em uma escola de programação e iniciei meus estudos na Trybe, com o curso Desenvolvomento FullStack. Além disso, participei do bootcamps Game Dev Roblox pela Dio e cursei Web designer pela Origamind. Atualmente, busco aprimorar meus conhecimentos adquiridos, ampliando meu conhecimento em Testes e Qualidade de Software.<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente. |
+| --- | --- |
 
-<b>My GitHub Stats</b>
+🧠 Atualmente Estou aprendendo JAVA, Ruby , Testes e Qualidade de Software
+ 
+ 
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<div  align="center"> 
+  <div style="display:flex"><br>
 
-<div>
 
-Top Langs             |  GitHub stats
-:-------------------------:|:-------------------------:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&show_icons=true&theme=radical&layout=compact)  |  ![Raypcte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=radical)
-
-<!---
-<a href="https://github.com/Raypcte"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=radical" alt="">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&show_icons=true&theme=radical" alt="">
--->
         
   <section style="background-color:#1A1B27">
   <div class="technologies-container">
@@ -144,8 +142,7 @@ Top Langs             |  GitHub stats
  
  
   
-  <img align="right" alt="Ray-pic" height="200" style="border-radius:50px;" src="ray.png">
-</div>
+
   
   ##
  
