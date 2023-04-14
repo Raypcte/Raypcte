@@ -9,7 +9,7 @@
   
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&layout=compact&langs_count=7&theme=synthwave"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=synthwave&include_all_commits=true&count_private=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
 <div  align="center"> 
   <div style="display:flex"><br>
