@@ -1,21 +1,16 @@
 #  Sobre mim
 
 
-| <img src="https://user-images.githubusercontent.com/91226847/230133646-7e839d2a-888a-4986-a6ca-f8e1c98f29d7.gif" height="320" width="300" align="left" style="margin-right: 20px;"> |  Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <br><br>In 2022, I decided to start my career transition to the Technology area, in order to seek knowledge and improve my skills. To do so, I joined a programming school and started my studies at Trybe, with the FullStack Development course. In addition, I participated in Game Dev Roblox bootcamps by Dio and I studied Web design by Origamined. Currently, I seek to improve my acquired knowledge, expanding my knowledge in Software Testing and Quality.<br><br>I found a true revolution in the Technology area, which provided me with great results and personal evolution. Therefore, I dedicate my efforts daily to improve my knowledge and become even more competent. |
+| <img src="https://user-images.githubusercontent.com/91226847/230133646-7e839d2a-888a-4986-a6ca-f8e1c98f29d7.gif" height="320" width="300" align="left" style="margin-right: 20px;"> |  Hi there<img src=:test_tube: width="29px">  <br><br>In 2022, I decided to start my career transition to the Technology area, in order to seek knowledge and improve my skills. To do so, I joined a programming school and started my studies at Trybe, with the FullStack Development course. In addition, I participated in Game Dev Roblox bootcamps by Dio and I studied Web design by Origamined. Currently, I seek to improve my acquired knowledge, expanding my knowledge in Software Testing and Quality.<br><br>I found a true revolution in the Technology area, which provided me with great results and personal evolution. Therefore, I dedicate my efforts daily to improve my knowledge and become even more competent. |
 | --- | --- |
 
 🧠 Atualmente Estou aprendendo JAVA, Ruby , QA, C# e Swift.
  
   
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&layout=compact&langs_count=7&theme=synthwave"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-</div>
-<div  align="center"> 
-  <div style="display:flex"><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&theme=midnight-purple&layout=compact)
+![Raypcte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=midnight-purple)
 
 
-        
   <section style="background-color:#1A1B27">
   <div class="technologies-container">
     <p align="left">
