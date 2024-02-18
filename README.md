@@ -1,5 +1,5 @@
 #  Sobre mim
-<img src="https://user-images.githubusercontent.com/91226847/230133646-7e839d2a-888a-4986-a6ca-f8e1c98f29d7.gif" height="300" width="300" align="left" style="margin-right: 20px;">
+<img src="https://user-images.githubusercontent.com/91226847/230133646-7e839d2a-888a-4986-a6ca-f8e1c98f29d7.gif" height="310" width="310" align="left" style="margin-right: 20px;">
 
 
 
