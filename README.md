@@ -1,18 +1,12 @@
 #  Sobre mim
+<img src="https://user-images.githubusercontent.com/91226847/230133646-7e839d2a-888a-4986-a6ca-f8e1c98f29d7.gif" height="300" width="300" align="left" style="margin-right: 20px;">
 
-| <img src="https://user-images.githubusercontent.com/91226847/230133646-7e839d2a-888a-4986-a6ca-f8e1c98f29d7.gif" height="200" width="200" align="left" style="margin-right: 20px;">
+
+
 
 <img src=:test_tube: width="20px"><br> 
 
-  <br>                         Profissional com domínio em Excel e Análise de Dados, capaz de transformar dados em 
-                                informações relevantes para a 
-                                organização, fornecendo insigths valiosos para tomada de decisão.Habilidades em 
-                                Excel aplicada para negócios e 
-                                Power Bi, aumentando a produtividade e 
-                                eficiência do Trabalho.
-
-
-  
+  <br>                         
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raypcte&theme=midnight-purple&layout=compact)
 ![Raypcte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raypcte&show_icons=true&theme=midnight-purple)
